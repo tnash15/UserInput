@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Input</string>
+    <string name="Next">Next</string>
+    <string name="last_name">last_name</string>
+    <string name="mid_name">mid_name</string>
+    <string name="first_name">first_name</string>
+</resources>
